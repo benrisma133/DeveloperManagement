@@ -1,0 +1,34 @@
+# Ignore Visual Studio files
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+Debug/
+Release/
+x64/
+x86/
+build/
+out/
+
+# CMake (إذا استعملتيه)
+CMakeFiles/
+CMakeCache.txt
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.obj
+*.pch
+*.ilk
+*.pdb
+*.idb
+
+# OS files
+.DS_Store
+Thumbs.db
