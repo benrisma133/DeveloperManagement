@@ -6,5 +6,5 @@
   <Folder Name="/Solution Items/">
     <File Path=".gitignore" />
   </Folder>
-  <Project Path="DevMang/DevMang.vcxproj" />
+  <Project Path="DevMang/DevMang.vcxproj" Id="3401a0cf-f03c-40fa-a414-efe4a846c173" />
 </Solution>
